@@ -43,6 +43,5 @@ class Feed < ActiveRecord::Base
       self.reload
       return self.entries
     end
-
   end
 end
