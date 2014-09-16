@@ -11,9 +11,9 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require jquery
-
 //= require jquery_ujs
 //= require underscore
+//= require jquery.serializejson
 //= require backbone
 //= require news_reader
 //= require_tree ../templates
